@@ -2,8 +2,11 @@
 
 Arduino UNO Software for the Open.Theremin.UNO
 
+- Work in progress
+- Trying to port back volume improvement from v3
+
 ### Don't click on the files!
-Click on the "Download ZIP" Button to the right or [Click here](https://github.com/GaudiLabs/OpenThereminUNO/archive/master.zip) 
+Click on the "Download ZIP" Button to the right or [Click here](https://github.com/Theremingenieur/OpenThereminUNO/archive/master.zip) 
 Then unpack the archive.
 
 ### Open Source Theremin based on the Arduino Platform
